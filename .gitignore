@@ -3,7 +3,7 @@
 venv/
 .env
 .git-profiles
-
+switch-git-profile-web.sh
 
 # Logs
 logs

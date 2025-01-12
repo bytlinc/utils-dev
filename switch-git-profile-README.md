@@ -104,7 +104,7 @@ chmod +x ~/switch-git-profile.sh
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests!
+Feel free to submit issues and enhancement requests.
 
 ## License
 
